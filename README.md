@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://github.com/sparshrestha/sparshrestha/blob/main/code.gif?raw=true" width="512" height="320" />
 
-### Hi there 👋 <img src="https://media.giphy.com/media/jt2eXsj7kgXreDGav1/giphy.gif" width="40px">
+### Hi there 👋
 - 🔭 I’m currently working on **Open Banking** solution.
 - 🌱 I’m currently learning **AWS**.
 - 👯 I’m looking to collaborate on **great project**.
