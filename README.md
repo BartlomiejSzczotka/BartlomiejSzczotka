@@ -4,5 +4,5 @@
 - 🔭 I’m currently working on **Open Banking** solution.
 - 🌱 Learning **AWS**.
 - 👯 I’m looking to collaborate on **great project**.
-- 💬 Ask me about my experiance: https://www.linkedin.com/in/bart%C5%82omiej-szczotka-0b83b463/
+- 💬 Ask me about my experience: https://www.linkedin.com/in/bart%C5%82omiej-szczotka-0b83b463/
 - 📫 How to reach me: **szczotka.bartlomiej@gmail.com**
