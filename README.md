@@ -6,8 +6,6 @@
 - 📫 How to reach me: **szczotka.bartlomiej@gmail.com**
 
 ### 🔧 Tools & Technologies
-
-![](cOS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8)
 
