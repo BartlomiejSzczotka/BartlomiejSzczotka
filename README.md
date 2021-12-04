@@ -21,4 +21,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## My Github Stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mszczekocka&show_icons=true&title_color=black)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BartlomiejSzczotka&show_icons=true&title_color=black)
