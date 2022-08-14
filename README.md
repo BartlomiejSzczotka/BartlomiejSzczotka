@@ -22,5 +22,5 @@
 
 ## My Github Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BartlomiejSzczotka&show_icons=true&title_color=black)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jakub686&theme=dark)](https://github.com/Jakub686/github-readme-streak-stats)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub686&langs_count=5&theme=tokyonight)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BartlomiejSzczotka&theme=light)]
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BartlomiejSzczotka&langs_count=5&theme=light)]()
