@@ -21,4 +21,4 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## My Github Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BartlomiejSzczotka&theme=light)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BartlomiejSzczotka&theme=light)
