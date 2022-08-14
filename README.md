@@ -23,4 +23,3 @@
 ## My Github Stats:
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BartlomiejSzczotka&show_icons=true&title_color=black)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BartlomiejSzczotka&theme=light)]
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BartlomiejSzczotka&langs_count=5&theme=light)]()
